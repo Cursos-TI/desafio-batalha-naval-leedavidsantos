@@ -4,6 +4,11 @@
 // Este código inicial serve como base para o desenvolvimento do sistema de Batalha Naval.
 // Siga os comentários para implementar cada parte do desafio.
 
+#define TAM_TABULEIRO 10
+#define TAM_NAVIO 3
+#define MAR 0
+#define NAVIO 3
+
 int main() {
     int tabuleiro[TAM_TABULEIRO][TAM_TABULEIRO] = {0};
 
